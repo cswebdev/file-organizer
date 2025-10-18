@@ -1,0 +1,9 @@
+# Core dependencies
+
+# Development dependencies
+pytest>=6.2.4
+watchdog>=2.1.6
+
+# Optional dependencies
+colorama>=0.4.4
+tqdm>=4.62.0
