@@ -27,7 +27,7 @@ python -m venv venv
 venv\Scripts\activate
 ```
 
-Windows(Powershell)
+Windows(Powershell):
 ```bash
 python -m venv venv
 venv\Scripts\Activate.ps1
@@ -43,6 +43,9 @@ To deactivate the virtual environment:
 deactivate
 ```
 
+## Install dependencies
 
-
-
+You must install the dependencies in order to get the project to run. The command to install project dependencies is: 
+```bash
+pip install -r requirements.txt
+```
